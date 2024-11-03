@@ -18,7 +18,7 @@
 
 ### Brief Self-Introduction 
 
-(your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
+I am an experienced HTML coder. My experience includes working with HTML, CSS, and JavaScript to deliver quality, user-friendly interfaces. I improving my skills and actively continue studying programming to deepen my technical expertise. My goal is to use my existing experience while expanding my knowledge to take on more complex projects, contributing to the success of the team and acieve results.
 
 
 
@@ -37,7 +37,8 @@
 
 
 ### Code Examples
-
+https://github.com/zshimova/landing-for-YandexCrowd
+https://github.com/zshimova/bookshop
 
 
 
