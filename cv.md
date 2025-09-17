@@ -39,6 +39,8 @@ I am junior frontend developer. My experience includes working with HTML, CSS, J
 
 ### Code Examples
 https://github.com/zshimova/landing-for-YandexCrowd
+
+
 https://github.com/zshimova/bookshop
 
 
