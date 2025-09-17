@@ -38,10 +38,10 @@ I am junior frontend developer. My experience includes working with HTML, CSS, J
 
 
 ### Code Examples
-https://github.com/zshimova/landing-for-YandexCrowd
+[landing for YandexCrowd](https://github.com/zshimova/landing-for-YandexCrowd)
 
 
-https://github.com/zshimova/bookshop
+[bookshop](https://github.com/zshimova/bookshop)
 
 
 
@@ -51,7 +51,7 @@ https://github.com/zshimova/bookshop
 
  HTML developer, 1 year
 
- 
+
  Junior frontend developer (VUE), 7 month
 
 
