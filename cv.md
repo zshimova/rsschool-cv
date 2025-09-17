@@ -50,6 +50,8 @@ https://github.com/zshimova/bookshop
 ### Work Experience 
 
  HTML developer, 1 year
+
+ 
  Junior frontend developer (VUE), 7 month
 
 
